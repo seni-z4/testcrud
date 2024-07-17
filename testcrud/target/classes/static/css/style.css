@@ -1,0 +1,7 @@
+.fixed-image-size {
+    width: 100%;
+    height: 200px; /* Set your desired height */
+    object-fit: cover;
+    /* Optionally, add a border-radius if you want rounded corners */
+    border-radius: 0.25rem;
+}
